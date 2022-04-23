@@ -22,4 +22,7 @@ int main()
     } 
        cout<<"result is"<<res;
 }
+
 // opsi conflict ana chahiye
+// conflict ayega na 
+
