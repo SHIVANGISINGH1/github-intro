@@ -22,3 +22,4 @@ int main()
     } 
        cout<<"result is"<<res;
 }
+// conflict ayega na 
